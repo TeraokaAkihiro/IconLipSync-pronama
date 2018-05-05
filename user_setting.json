@@ -1,0 +1,13 @@
+{
+  "name": "<Twitter ID>",
+  "visemes": {
+    "sil": "normal.png",
+    "aa": "lip_a.png",
+    "E": "lip_e.png",
+    "ih": "lip_i.png",
+    "oh": "lip_o.png",
+    "ou": "lip_u.png",
+    "consonant": "lip_s.png"
+  },
+  "filter": "Trilinear"
+}
