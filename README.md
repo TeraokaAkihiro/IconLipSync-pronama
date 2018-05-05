@@ -1,0 +1,2 @@
+# IconLipSync-pronama
+IconLipSync用のプロ生ちゃんのリップシンク画像
